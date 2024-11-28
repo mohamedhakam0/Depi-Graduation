@@ -22,7 +22,7 @@ The cleaned data was analyzed using Microsoft Power BI to create a dynamic dashb
 * **Payment Preferences:** Cash payments are the primary payment method.
 * **Furnishing Status:** Non-furnished properties are more common.
 
-**[Conclusion](images/Screenshot 2024-11-28 173346.png)**
+![**Conclusion**](images/Screenshot 2024-11-28 173346.png)
 
 The analysis highlights key trends in the Egyptian real estate market, particularly the dominance of East Cairo and the popularity of certain property types. These insights can aid both buyers and sellers in making informed decisions.
 
