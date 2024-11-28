@@ -23,7 +23,9 @@ The cleaned data was analyzed using Microsoft Power BI to create a dynamic dashb
 * **Furnishing Status:** Non-furnished properties are more common.
 
 **Conclusion**
-![](images/Screenshot 2024-11-28 173346.png)
+
+![image](https://github.com/user-attachments/assets/d70fb783-e39f-4990-b0b1-bcbb962ca3fb)
+
 
 The analysis highlights key trends in the Egyptian real estate market, particularly the dominance of East Cairo and the popularity of certain property types. These insights can aid both buyers and sellers in making informed decisions.
 
