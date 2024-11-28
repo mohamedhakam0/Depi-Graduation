@@ -3,7 +3,7 @@
 
 **Data Cleaning and Preparation**
 
-The raw dataset underwent significant cleaning and transformation using Microsoft Excel and Power BI:
+The [raw dataset](egypt_House_prices_Original.xlsx) underwent significant cleaning and transformation using Microsoft Excel and Power BI:
 
 1. **Region Mapping:** A new "Region" column was added, mapping cities to specific regions.
 2. **Data Accuracy:** Blank cells were filled, and data inconsistencies were corrected.
